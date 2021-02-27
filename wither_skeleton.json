@@ -1,0 +1,17 @@
+{
+	"powers": [		
+		"additional:undead",
+		"origins:nether_spawn",
+		"origins:fire_immunity",
+		"additional:wither",
+		"origins:extra_reach",
+		"additional:true_skeleton",
+		"additional:skeleton_familiarity",
+		"origins:fragile"
+	],
+	"icon": "minecraft:wither_skeleton_skull",
+	"order": 10,
+	"impact": 3,
+	"name": "Wither Skeleton",
+	"description": "An undead nether inhabitant, naturally immune to the perils of the nether." 
+}
