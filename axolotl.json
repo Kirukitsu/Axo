@@ -1,0 +1,23 @@
+{
+	"powers": [		
+		"origins:water_breathing",
+		"origins:carnivore",
+		"origins:aqua_affinity",
+		"origins:swim_speed",
+		"origins:like_water",
+		"origins:aquatic",
+		"additional:water_vision",
+		"additional:hold_breath",
+		"additional:natural_regeneration",
+		"origins:conduit_power_on_land",
+		"origins:fragile",
+		"additional:sealegs",
+		"additional:small_axolotl",
+		"additional:mighty_hunter"
+	],
+	"icon": "minecraft:trident",
+	"order": 10,
+	"impact": 2,
+	"name": "Axolotl",
+	"description": "An evolved axolotl, a small and mighty creature."
+}
