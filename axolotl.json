@@ -5,13 +5,10 @@
 		"origins:aqua_affinity",
 		"origins:swim_speed",
 		"origins:like_water",
-		"origins:aquatic",
 		"additional:water_vision",
 		"additional:hold_breath",
 		"additional:natural_regeneration",
 		"origins:conduit_power_on_land",
-		"origins:fragile",
-		"additional:sealegs",
 		"additional:small_axolotl",
 		"additional:mighty_hunter"
 	],
